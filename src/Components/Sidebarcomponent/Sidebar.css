@@ -1,0 +1,53 @@
+.sidebar{
+    height: 100%;
+    width: 200px;
+    background-color: white;
+    border-right: 1px solid grey;
+    align-items: center;
+
+}
+.sidebarlist{
+    list-style: none;
+    margin-top: 30px;
+    margin-left: 0;
+    
+}
+
+.sidebar__title{
+    text-decoration: none;
+     margin-left: 30px;
+     align-items: center;
+    
+}
+.sidebar__item{
+    width:100%;
+    
+   
+}
+.sidebar__link{
+    display:flex;
+    align-items: center;
+    text-decoration: none;
+    color:grey;
+    margin-top: 42px;
+    width: 100%;
+}
+.sidebar__link:active{
+    border-left:1px solid aqua;
+}
+.sidebar_icon{
+    display: flex;
+    align-items: center;
+
+   
+}
+.sidebar__logo{
+    display:flex;
+    flex-direction: row;
+    margin-left: 37px;
+    margin-top:30px;
+
+}
+.sidebar_logohire{
+    color: #1D9BF0;
+}

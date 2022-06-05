@@ -3,8 +3,6 @@ import { BiSearch } from "react-icons/bi";
 import { AiOutlineHeart } from "react-icons/ai";
 
 
-
-
 export const SidebarData = [
     {
         id:1,
